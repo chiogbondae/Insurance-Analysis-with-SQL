@@ -1,5 +1,5 @@
 # Insurance-Analysis-with-SQL
-I used advanced querries to answer fundamental questions from an insurance dataset with all tables attached. Further analyses (prediction modelling) will be done in R and uploaded as soon as they are ready.
+I used advanced querries to answer fundamental questions from an insurance dataset(https://www.kaggle.com/datasets/ibrahimshahrukh/medical-insurance-cost-dataset-usa/data) with all tables attached. Further analyses (prediction modelling) will be done in R and uploaded as soon as they are ready.
 [20_final_summary.csv](https://github.com/user-attachments/files/25465495/20_final_summary.csv)
 [01_risk_score_analysis.csv](https://github.com/user-attachments/files/25465496/01_risk_score_analysis.csv)[19_children_impact.csv](https://github.com/user-attachments/files/25465514/19_children_impact.csv)
 [18_smoking_impact.csv](https://github.com/user-attachments/files/25465513/18_smoking_impact.csv)
