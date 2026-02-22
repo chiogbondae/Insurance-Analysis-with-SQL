@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS insurance_analytics;
 CREATE DATABASE insurance_analytics;
 USE insurance_analytics;
 
